@@ -12,6 +12,7 @@ cd ~  && git clone https://github.com/tranthaison1231/INIT_ENVIRONMENT && cd INI
 + REACT + TS + ELECTRON + TAILWIND + PARCEL: https://github.com/huytd/electron-typescript-react-tailwind-parcel
 + REACT + PULL TO REFESH : https://github.com/CuongStf/pull-to-refresh-react
 + ESLINT CONFIG: https://www.npmjs.com/package/eslint-config-react-shyn
++ STYLINT CONFIG: https://www.npmjs.com/package/stylelint-config-shyn
   ## FOR TAILWIND 
     + Tailwind components: https://tailwindcomponents.com/
     + Tailwind template: https://tailwindtemplates.io/
