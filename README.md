@@ -27,7 +27,8 @@ cd ~  && git clone https://github.com/tranthaison1231/INIT_ENVIRONMENT && cd INI
 
 # FOR NESTJS
 + NESJS + MYSQL: https://github.com/tranthaison1231/NESTJS_MYSQL
-
+ ## EXPRESSJS 
+  + TYPEORM + EXPRESSJS : https://github.com/benawad/typeorm-crud-stuff
  ## GRAPQL 
   + NESTJS+ GRAPQL + MONGODB: https://github.com/TannerGabriel/Blog/tree/master/nest-graph-ql?source=post_page-----f9ba34e773a3----------------------
   + VERSION 2: https://github.com/benawad/nest-mongo-graphql
