@@ -32,7 +32,16 @@ export const CSS_RESET = `
   ul {
    list-style: none;
   }
-  
+  b,
+  strong {
+    font-weight: bolder;
+  }
+  code,
+  kbd,
+  samp {
+    font-family: monospace, monospace;
+    font-size: 1em;
+  }
   embed,
   iframe,
   img,
@@ -41,16 +50,13 @@ export const CSS_RESET = `
    display: block;
    max-width: 100%;
   }
-  
   table {
    table-layout: fixed;
    width: 100%;
   }
-  
   [hidden] {
    display: none;
   }
-  
 `;
 
 export const TAILWIND_CSS = `
