@@ -206,9 +206,9 @@ cd ~ && bash ./INIT_ENVIRONMENT/step2.sh
 - FLUTTER PDF TEXT: https://github.com/themaaz32/pdf_test
 
 # OTHER 
-## ELETRON
+## ELECTRON
 
-- ELETRON BASE: https://github.com/alexdevero/electron-react-webpack-boilerplate
+- ELECTRON BASE: https://github.com/alexdevero/electron-react-webpack-boilerplate
 
 ## TOOLING
 
